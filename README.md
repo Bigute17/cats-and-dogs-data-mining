@@ -13,3 +13,9 @@ You can find Gabriel's channel here: https://www.youtube.com/@gcdatkin
 Due to technical limitations and time constraints, we decided to downsize significantly from about 25,000 images to just 1,000. We made sure to have balanced classes and images removed at random when implementing this change.
 
 This was an excellent introduction to tensorflow and working with images. Considerable efforts were made to explain most of the code, so we hope that this can be of some use to others who are interested in this subject.
+
+
+## BEFORE YOU BEGIN
+
+* Our notebook assumes that you are in this repo as your working directory
+* You will need to extract the .zip file from Kaggle in your repo folder, then add a new folder within that ouput called "images"
